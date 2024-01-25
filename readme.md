@@ -56,6 +56,13 @@ is to create a Linux binary.
 
 ---
 
+### How to compile your code with a specific version of C++
+
+`g++ main.cpp -o main -std=c++20`
+
+
+---
+
 ### How to run your Rust program
 First navigate to the folder where the .ccp file is
 `./main`
@@ -63,6 +70,10 @@ First navigate to the folder where the .ccp file is
 ---
 
 ### C++ Programming Course - Beginner to Advanced
-https://youtu.be/8jLOx1hD3_o?t=3848
+
+https://youtu.be/8jLOx1hD3_o?t=7997
+
+2:13:17 / 1:07:07:29
+
 
 ---
