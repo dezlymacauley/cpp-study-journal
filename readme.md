@@ -71,8 +71,7 @@ First navigate to the folder where the .ccp file is
 
 ### C++ Programming Course - Beginner to Advanced
 
-https://youtu.be/8jLOx1hD3_o?t=7997
-
+https://youtu.be/8jLOx1hD3_o?t=10851
 2:13:17 / 1:07:07:29
 
 
