@@ -1,6 +1,8 @@
 #include <iostream>
+
 /* 
 NOTE: importing functionality
+<iostream> stands for "Input Output Stream"
 
 The line above tells the compiler that you want to access the functionality,
 of iostream. iostream allows you to perform input and output operations,
