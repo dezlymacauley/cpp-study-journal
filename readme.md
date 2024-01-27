@@ -63,6 +63,39 @@ is to create a Linux binary.
 
 ---
 
+### Debugging 
+
+You may also want to add a `-g` flag
+it adds debugging symbols to the binary, 
+which can be helpful when you need to debug the program using a debugger,
+such as gdb (GNU Debugger).
+
+E.g.
+
+`g++ main.cpp -o main -std=c++20 -g`
+
+---
+
+### Warnings when compiling
+
+You can add a `-Wall` flag
+
+E.g.
+
+`g++ main.cpp -o main -std=c++20 -Wall`
+
+NOTE: This is case sensitive. Capital W
+
+`-Wall`stands for "Warnings All"
+
+This enables a set of warning messages during compilation.
+It stands for "all warnings", 
+and can help you catch potential issues in your code.
+It's a good practice to include -Wall to get notified about possible problems, 
+in your code.
+
+---
+
 ### How to run your Rust program
 First navigate to the folder where the .ccp file is
 `./main`
@@ -74,5 +107,14 @@ First navigate to the folder where the .ccp file is
 https://youtu.be/8jLOx1hD3_o?t=10851
 2:13:17 / 1:07:07:29
 
+
+---
+
+### Beginning C++ Programming - From Beginner to Beyond
+
+Teacher = Dr. Frank Mitropoulos
+
+#### Completed Sections
+- **01-introduction**
 
 ---
