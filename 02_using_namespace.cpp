@@ -1,6 +1,14 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; // This will use the entire std namespace.
+
+// NOTE: You can be more concise and actually list which items,
+// you want to use from namespace
+
+// E.g. 
+using std::cout;
+using std::endl;
+    
 
 int main() {
     

@@ -284,6 +284,18 @@ https://youtu.be/8jLOx1hD3_o?t=10851
 Teacher = Dr. Frank Mitropoulos
 
 #### Completed Sections
-- **01-introduction**
+- **01 Introduction**
+- **02 Installation and Setup**
+- **03 Curriculum Overview**
+- **04 Getting Started**
+- **05 Structure of a C++ Program**
+
+---
+
+### Reserved words in C++
+
+There are about 90 reserved keywords in C++
+
+https://en.cppreference.com/w/cpp/keyword
 
 ---
