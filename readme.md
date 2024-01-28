@@ -232,6 +232,17 @@ This will give you a cool layout that let's you see the assembly code.
 
 After this, press enter to see the source code above the assembly code
 
+NOTE: That is it not a 1 to 1 relationship. I.e One line of C++ code,
+can equal multiple lines of assembly.
+
+You can either move to then next line of C++ code with `next`,
+or you can move to the next line of assembly code with `nexti`.
+
+`nexti` means next instruction.
+
+To refresh the screen (sometimes the formatting gets messed up),
+type `ref`
+
 ---
 
 ### Warnings when compiling
