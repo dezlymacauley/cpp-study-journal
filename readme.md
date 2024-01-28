@@ -289,6 +289,7 @@ Teacher = Dr. Frank Mitropoulos
 - **03 Curriculum Overview**
 - **04 Getting Started**
 - **05 Structure of a C++ Program**
+- **06 Variables and Constants**
 
 ---
 
