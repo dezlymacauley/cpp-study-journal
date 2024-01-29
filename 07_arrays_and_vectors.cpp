@@ -67,8 +67,19 @@ Vectors can provide bounds checking.
 Vectors can use lots of useful functions like sort, reverse, find, and more.
 */
 
-    // vector <char> vowels (5);
-    // vector <int> test_scores (10);
+    vector <char> vowels {'a', 'e', 'i', 'o', 'u'};
+    cout << vowels[0] << endl; // This will print a
+    
+    // NOTE: Another way to do this
+    
+    cout << vowels.at(0) << endl; // This will print a
+        
+    // The first value is the intial size of the vector.
+    // The next number is what you want to initialize all the 365 doubles to.
+    vector <double> hi_temperatures (365, 80.0);
 
-
+    // NOTE: How to add elements to a vector
+   
+    vector <int> test_scores {100, 95, 99};
+    test_scores.push_back(87);
 }
