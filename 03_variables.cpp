@@ -66,4 +66,21 @@ int main() {
     // you may get unexpected beahviors!!
 
     long long int num5 = 8'383'939; // You can also use ' to make is easir to read.
+
+//=============================================================================
+
+/*
+
+// NOTE: Intializing variables
+
+
+`int num1 {0};` is the same as `int num1 {}`
+
+`double num2 {0.0};` is the same as `double num2 {};`
+
+
+*/
+
+
+
 }
