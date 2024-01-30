@@ -290,6 +290,8 @@ Teacher = Dr. Frank Mitropoulos
 - **04 Getting Started**
 - **05 Structure of a C++ Program**
 - **06 Variables and Constants**
+- **07 Arrays and Vectors**
+- **08 Statements and Operators**
 
 ---
 
