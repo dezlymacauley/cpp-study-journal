@@ -56,7 +56,8 @@ int main() {
     int my_scores[] {100,98,90,86,84};
     
     print_array(my_scores,5);
-    replace_numbers_in_array(my_scores,5, 9);
+    replace_numbers_in_array(my_scores, 5, 9);
+    print_array(my_scores,5);
 
     cout << endl;
     return 0;
